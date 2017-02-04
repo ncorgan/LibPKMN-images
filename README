@@ -1,0 +1,7 @@
+This repository contains the images used in LibPKMN and will be
+used as a Git submodule. These images have been separated so as
+to separate the addition of images from the increase in LibPKMN
+repository size.
+
+Pokémon images obtained from Veekun (http://www.veekun.com).
+Trainer images obtained from Bulbapedia (http://bulbapedia.bulbagarden.net)
